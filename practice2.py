@@ -18,3 +18,4 @@ with open('50000 Sales Records.csv'):
     ex1.pie(grouped_by_region1)
     ex2.pie(grouped_by_region2)
     plt.show()
+    #
